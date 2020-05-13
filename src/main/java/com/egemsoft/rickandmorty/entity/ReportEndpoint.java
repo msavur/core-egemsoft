@@ -1,8 +1,8 @@
 package com.egemsoft.rickandmorty.entity;
 
 
-import com.egemsoft.rickandmorty.entity.base.BaseAuditEntity;
 import com.egemsoft.rickandmorty.enums.EndpointEnum;
+import com.egemsoft.rickandmorty.entity.base.BaseAuditEntity;
 import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
